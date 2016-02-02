@@ -1,0 +1,7 @@
+http://www.baidu.com/cb.php*
+user.qzone.qq.com##IMG[src="http://pgdt.gtimg.cn/gdt/0/BAXOxVfACBTxydWgZyMAm.jpg/0?ck=314a3da4c3f9793416242565c6e1ee51"]
+@@|http://qun.qzone.qq.com/group|$document
+http://www.baidu.com/dan.php*
+user.qzone.qq.com##DIV[id="QM_Container_100002"][class="icenter-right-mod"]
+user.qzone.qq.com##DIV[id="gdtLcModCnt"][class="sns_icenter"]
+user.qzone.qq.com##DIV[class="mod-side-nav mod-side-nav-recently-used"]
