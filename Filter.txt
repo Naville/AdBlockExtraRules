@@ -1,3 +1,7 @@
+@@http://www.wired.com$document
+@@www.baidu.com$document
+@@http://www.reddit.com$document
+@@www.redditstatic.com$document
 http://www.baidu.com/cb.php*
 user.qzone.qq.com##IMG[src="http://pgdt.gtimg.cn/gdt/0/BAXOxVfACBTxydWgZyMAm.jpg/0?ck=314a3da4c3f9793416242565c6e1ee51"]
 @@|http://qun.qzone.qq.com/group|$document
@@ -33,3 +37,29 @@ www.feng.com##DIV[class="ad_1000"]
 www.feng.com##A[href="http://g.feng.com"]
 www.feng.com##A[href="http://www.fengbuy.com/"]
 www.feng.com##A[href="http://apt.feng.com"]
+tieba.baidu.com##DIV[class="aside_region celebrity"]
+@@||www.forbes.com/$document
+www.bilibili.com##IMG[src="http://i0.hdslb.com/u_user/8b4f4a8501d05fa734b6fc886f806510.jpg"]
+pan.baidu.com##DL[class="module-hot-rec"]
+www.bilibili.com##DIV[class="cards taobao"]
+www.bilibili.com##DIV[class="v_small"]
+www.bilibili.com##DIV[class="elec-charging-title"]
+www.bilibili.com##A[class="i-link"][href="http://yoo.bilibili.com/index.html"]
+www.bilibili.com##A[class="i-link"][href="http://game.bilibili.com/"]
+tieba.baidu.com##DL[id="threadListGroupCnt"][class="threadListGroupCnt_Zero"]
+bbs.feng.com##DIV[id="scbar_hot_1"][class="hot_keys"]
+bbs.feng.com##A[href="forum.php?gid=491"]
+bbs.feng.com##DL
+bbs.feng.com##H2
+bbs.feng.com##TD[class="fl_g"]
+game.feng.com##IMG[src="http://yes.feng.com/view.php?what=zone:208&n=a70c86fa"]
+game.feng.com##DIV[class="moudleList"]
+game.feng.com##A[href="/gamenew/gameGiftSite/index.shtml"]
+game.feng.com##A[href="http://g.feng.com/"]
+game.feng.com##A[href="http://www.fengbuy.com"]
+game.feng.com##A[href="http://apt.feng.com/"]
+game.feng.com##DIV[class="widePanelWrap wrap"]
+game.feng.com##IMG[src="http://yes.feng.com/view.php?what=zone:198&n=ae88e684"]
+game.feng.com##IMG[src="http://yes.feng.com/view.php?what=zone:199&n=a3b5ec49"]
+game.feng.com##DIV[id="read-caterty"][class="readerModule wrap clearfix"]
+*.feng.com##DIV[class="our_image"]
